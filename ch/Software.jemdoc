@@ -1,19 +1,19 @@
 # jemdoc: menu{MENU}{Software.html}
 # jemdoc: nofooter
-= Yaohua Hu - Software
+= 胡耀华 - 软件
 
-== Matlab
-- [http://jjwanglab.org/LpRGNI/ LpRGNI (Lp Regularization for Gene Network Inference)]\n
-\- An Matlab Tool for precting gene regulatory network. We provide two extended models of LASSO, the L0 and L1/2 regularization models, to infer gene regulatory network from both high-throughput gene expression data and transcription factor.
+== [http://jjwanglab.org/LpRGNI/ LpRGNI (Lp Regularization for Gene Network Inference)]
+- LpRGNI是一个利用Lasso类估计量（包括$\ell_0$, $\ell_1$ and $\ell_{1/2}$正则化模型），从高通量基因表达数据和转录因子中进行预测基因调控网络的Matlab工具包。
+- 参考文献:\n
+\- J. Qin, Y. Hu, F. Xu, H. K. Yalamanchili and J. Wang, Inferring gene regulatory networks by integrating ChIP-seq/chip and transcriptome data via LASSO-type regularization methods, Methods, 67: 294-303, 2014. \[[./pdf/2014_IGRN-Lp-Methods_QHXYW-published.pdf link]\] 
 
-- [http://jjwanglab.org/gso/ GSO (Group Sparse Optimization)]\n
-\- An Matlab Tool for precting Master Transcription Factors for Cell Fate Conversion. This method will benefit researchers in regenerative medicine by quickly identifying the key master regulators, enhancing the successful conversion rate and reducing the experimental cost.
+== [https://CRAN.R-project.org/package=GSparO GSparO (Group Sparse Optimization)]
+- GSparO是一个解决欠定线性系统的R工具包，其中利用投影梯度算法解决组稀疏学习的低阶正则化问题。
+- 参考文献:\n
+\- Y. Hu, C. Li, K. Meng, J. Qin and X. Yang, Group sparse optimization via $\ell_{p,q}$ regularization, Journal of Machine Learning Research, 18(30): 1-52, 2017. \[[./pdf/2017_GSO-JMLR_HLMQY-published.pdf link]\] 
 
-== R 
-- [https://CRAN.R-project.org/package=GSparO GSparO (Group Sparse Optimization)]\n
-\- An R pacakage for solving underdetermined linear system. It implements the proximal gradient algorithm to solve a lower regularization model of group sparse learning. For details, please refer to the paper "Y. Hu, C. Li, K. Meng, J. Qin and X. Yang. Group sparse optimization via l_{p,q} regularization. Journal of Machine Learning Research, to appear, 2017."
-
-== Web server
-- [http://qinlab.sls.cuhk.edu.hk/CrusTF/ CrusTF]\n
-\- A Comprehensive Resource for Evolutionary and Functional Studies of Crustacean Transcription Factors. For details, please refer to the paper "J. Qin, Y. Hu, K. Ma, X. Jiang, C. Ho, L. Tsang, L. Yi and K. Chu, CrusTF: A comprehensive resource for evolutionary and functional studies of crustacean transcription factors, BMC Genomics, 18(1): 908, 2017."
+== [http://qinlab.sls.cuhk.edu.hk/CrusTF/ CrusTF]
+- CrusTF用于研究甲壳类动物进化和功能的转录因的全面性资源。
+- 参考文献:\n
+\- J. Qin, Y. Hu, K. Ma, X. Jiang, C. Ho, L. Tsang, L. Yi and K. Chu, CrusTF: A comprehensive resource for evolutionary and functional studies of crustacean transcription factors, BMC Genomics, 18(1): 908, 2017. \[[./pdf/2017_CrusTF-BMCGenomics_QHC-published.pdf link]\]
 
