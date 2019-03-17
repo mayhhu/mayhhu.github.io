@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{Publications.html}
 # jemdoc: nofooter
-= 胡耀华 - 论文
+= Yaohua Hu - Publications
 
-- [https://scholar.google.com.hk/citations?user=YreamYEAAAAJ&hl=en 谷歌学术]
-- [https://www.researchgate.net/profile/Yaohua_Hu ResearchGate档案]
+- [https://scholar.google.com.hk/citations?user=YreamYEAAAAJ&hl=en My Google Scholar Citation]
+- [https://www.researchgate.net/profile/Yaohua_Hu My ResearchGate Profile]
 
-== 投稿论文
+== Preprints
 . Y. Hu, C. Li, K. W. Meng and X. Yang, Linear convergence of inexact descent methods and inexact proximal gradient algorithms for lower-order regularization problems, submitted to Foundations of Computational Mathematics. \[[./pdf/LC-PGA-Lp.pdf link]\]
 . Y. Hu, C. K. W. Yu, J. Wang, C. Li and X. Yang, Extended Newton methods for multiobjective optimization: Majorizing function technique and convergence analysis, submitted to SIAM Journal on Optimization.
 . J. Qin, Y. Hu, J.-C. Yao, Y. Qin, K. H. Chu and J. Wang, Group sparse optimization: An integrative OMICs method to predict master transcription factors for cell fate conversion, submitted to Nucleic Acids Research.
@@ -21,7 +21,7 @@
 . K. Zhang, X. Yang and Y. Hu, Power penalty method for solving HJB equations arising from finance, submitted to Automatica.
 . H. Wang, F. Zhang, Q. Wu, Y. Hu and Y. Shi, Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods, submitted to IEEE Transactions on Signal Processing. \[[./pdf/Nc&Ns-SO.pdf link]\]
 
-== 期刊文章
+== Journal Papers
 . C. K. W. Yu, Y. Hu, X. Yang\* and S. K. Choy, Abstract convergence theorem for quasi-convex optimization problems with applications, *Optimization*, accepted for publication. \[[./pdf/2019_AbsQuasiSG-Optim_YHYC.pdf link]\] 
 . S. Liu，H. Wang，Y. Hu\*，Sparse optimization and regularization methods，*Mathematical Modeling and its Applications*, 7(4): 1-15, 2018. \[[./pdf/2018_SOM&RM_LWH.pdf link]\] 
 . L. Zhang, Y. Hu\*, C. K. W. Yu and J. Wang, Iterative positive thresholding algorithm for nonnegative sparse optimization, *Optimization*, 67(9): 1345-1363, 2018. \[[./pdf/2018_L1-NNSO-Optim_ZHYW.pdf link]\] 

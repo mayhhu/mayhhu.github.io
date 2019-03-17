@@ -15,7 +15,7 @@
 -- Y. Hu, C. Li, K. Meng, J. Qin and X. Yang, Group sparse optimization via $\ell_{p,q}$ regularization, Journal of Machine Learning Research, 18(30): 1-52, 2017. \[[./pdf/2017_GSO-JMLR_HLMQY-published.pdf link]\] 
 
 == Webserver
-- [http://qinlab.sls.cuhk.edu.hk/CrusTF/ CrusTF]\n
+- [http://qinlab.sls.cuhk.edu.hk/CrusTF/ CrusTF (Crustacean Transcription Factors)]\n
 \- CrusTF是研究甲壳类动物进化和功能的转录因子的网络服务器。\n
 \- 参考文献:\n
 -- J. Qin, Y. Hu, K. Ma, X. Jiang, C. Ho, L. Tsang, L. Yi and K. Chu, CrusTF: A comprehensive resource for evolutionary and functional studies of crustacean transcription factors, BMC Genomics, 18(1): 908, 2017. \[[./pdf/2017_CrusTF-BMCGenomics_QHC-published.pdf link]\]
