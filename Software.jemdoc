@@ -4,7 +4,7 @@
 
 == Matlab
 - [http://jjwanglab.org/LpRGNI/ LpRGNI (Lp Regularization for Gene Network Inference)]\n
-\- An Matlab tool for predicting gene regulatory network by using the LASSO-type estimators, including the $\ell_0$, $\ell_1$ and $ell_{1/2}$ regularization models, and from both high-throughput gene expression data and transcription factor.\n
+\- An Matlab tool for predicting gene regulatory network by using the LASSO-type estimators, including the $\ell_0$, $\ell_1$ and $\ell_{1/2}$ regularization models, and from both high-throughput gene expression data and transcription factor.\n
 \- Reference:\n
 -- J. Qin, Y. Hu, F. Xu, H. K. Yalamanchili and J. Wang, Inferring gene regulatory networks by integrating ChIP-seq/chip and transcriptome data via LASSO-type regularization methods, Methods, 67: 294-303, 2014. \[[./pdf/2014_IGRN-Lp-Methods_QHXYW-published.pdf link]\] 
 
