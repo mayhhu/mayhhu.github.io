@@ -13,20 +13,20 @@
 . X. Li, Y. Hu\*, C. Li, X. Yang and T. Jiang, Sparse estimation via $\ell_q$ optimization methods in high-dimensional linear regression, submitted to Journal of Machine Learning Research.
 . Y. Hu, C. K. W. Yu and X. Yang, Incremental subgradient methods for minimizing the sum of quasi-convex functions, submitted to Journal of Global Optimization. \[[./pdf/IncQuasiSGM-R2.pdf link]\]
 . C. K. W. Yu, Y. Hu and S.-J. Choy, Enhancing portfolio performance via the mean-variance analysis, submitted to Mathematics and Financial Economics.
-. J. Wang, X. Zhuang, C. K. W. Yu, Y. Hu\*, A family of projection gradient methods for solving the multiple-sets split feasibility problem, submitted to Journal of Optimization Theory and Applications.
 . X. Wang, Y. Hu\*, C. Li and S.-M. Guu, Linear convergence of subgradient algorithm for convex feasibility problems with applications, submitted to Journal of Optimization Theory and Applications.
 . Y. Hu, J. Li and C. K. W. Yu, Convergenece rates of subgradient methods for quasi-convex optimization problems, submitted to European Journal of Operational Research.
 . K. Zhang, X. Yang and Y. Hu, Power penalty method for solving HJB equations arising from finance, submitted to Automatica.
 . H. Wang, F. Zhang, Q. Wu, Y. Hu and Y. Shi, Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods, submitted to IEEE Transactions on Signal Processing. \[[./pdf/Nc&Ns-SO.pdf link]\]
 
 == 发表文章
+. J. Wang, Y. Hu\*, C. K. W. Yu and X. Zhuang, A family of projection gradient methods for solving the multiple-sets split feasibility problem, *Journal of Optimization Theory and Applications*, accepted for publication, 2019. \[[./pdf/2019_MSSFP_JOTA_WHYZ.pdf link]\]
 . J. Bao, C. K. W. Yu, J. Wang\*, Y. Hu and J.-C. Yao, Modified inexact Levenberg-Marquardt methods for solving nonlinear least squares problems, *Computational Optimization and Applications*, accepted for publication, 2019. \[[./pdf/2019_LM_COAP_BYWHY.pdf link]\]
 . C. K. W. Yu, Y. Hu, X. Yang\* and S. K. Choy, Abstract convergence theorem for quasi-convex optimization problems with applications, *Optimization*, accepted for publication, 2018. \[[./pdf/2019_AbsQuasiSG-Optim_YHYC.pdf link]\] 
 . W. Shen, Y. Hu\*, C. Li and J.-C. Yao, Convergence of the Newton-type methods for the square inverse singular value problems with multiple and zero singular values, *Applied Numerical Mathematics*, 143: 172-187, 2019. \[[./pdf/2019_ISVP-ANM_SHLY.pdf link]\]
+. J. Bao, S.-M. Guu*, J. Wang, Y. Hu and C. Li, On convergence of a truncated Gauss-Newton method for solving underdetermined nonlinear least squares problems, *Journal of Nonlinear and Convex Analysis*, 19(12): 2235-2246, 2018. \[[./pdf/2018_TGN-JNCA_BGWHL.pdf link]\] 
 . S. Liu, H. Wang, Y. Hu\*, Sparse optimization and regularization methods, *Mathematical Modeling and its Applications*, 7(4): 1-15, 2018. \[[./pdf/2018_SOM&RM_LWH.pdf link]\] 
-. J. Bao, S.-M. Guu*, J. Wang, Y. Hu and C. Li, On convergence of a truncated Gauss-Newton method for solving underdetermined nonlinear least squares problems, Journal of Nonlinear and Convex Analysis, 19(12): 2235-2246, 2018. \[[./pdf/2018_TGN-JNCA_BGWHL.pdf link]\] 
 . L. Zhang, Y. Hu\*, C. K. W. Yu and J. Wang, Iterative positive thresholding algorithm for nonnegative sparse optimization, *Optimization*, 67(9): 1345-1363, 2018. \[[./pdf/2018_L1-NNSO-Optim_ZHYW.pdf link]\] 
-. W. Shen\*, Y. Hu, C. Li and J.-C. Yao, Convergence of a Ulm-like method for square inverse singular value problems with multiple and zero singular values, *Numerical Algorithms*, 7(2): 375-398, 2018. \[[./pdf/2018_UlmISP-NA_SHLY.pdf link]\] 
+. W. Shen\*, Y. Hu, C. Li and J.-C. Yao, Convergence of a Ulm-like method for square inverse singular value problems with multiple and zero singular values, *Numerical Algorithms*, 79(2): 375-398, 2018. \[[./pdf/2018_UlmISP-NA_SHLY.pdf link]\] 
 . C. Li, L. Meng\*, L. Peng, Y. Hu and J.-C. Yao, Weak sharp minima for convex infinite optimization problems in normed linear spaces, *SIAM Journal on Optimization*, 28(3): 1999-2021, 2018. \[[./pdf/2018_WSM-SIOPT_LMPHY.pdf link]\] 
 . Y. Zhang, Y. Hu\*, C. K. W. Yu and J. Wang, Cubic convergence of Newton-Steffensen's method for operators with Lipschitz continuous derivative, *Journal of Nonlinear and Convex Analysis*, 19(3): 433-460, 2018. \[[./pdf/2018_NSM-JNCA_ZHYW.pdf link]\] 
 . J. Qin\*, Y. Hu, K. Ma, X. Jiang, C. Ho, L. Tsang, L. Yi and K. Chu\*, CrusTF: A comprehensive resource for evolutionary and functional studies of crustacean transcription factors, *BMC Genomics*, 18(1): 908, 2017. \[[./pdf/2017_CrusTF-BMCGenomics_QHC.pdf link]\]
