@@ -7,11 +7,9 @@
 
 == Preprints
 . Y. Hu, C. Li, K. W. Meng and X. Yang, Linear convergence of inexact descent methods and inexact proximal gradient algorithms for lower-order regularization problems, submitted to Foundations of Computational Mathematics. \[[./pdf/LC-PGA-Lp.pdf link]\]
-. Y. Hu, C. K. W. Yu, J. Wang, C. Li and X. Yang, Extended Newton methods for multiobjective optimization: Majorizing function technique and convergence analysis, submitted to SIAM Journal on Optimization.
 . J. Qin, Y. Hu, J.-C. Yao, Y. Qin, K. H. Chu and J. Wang, Group sparse optimization: An integrative OMICs method to predict master transcription factors for cell fate conversion, submitted to Nucleic Acids Research.
 . W. Veldsman, F. Cheung, Y. Hu, X. Jiang, P. Wang, J. Qin, J. Wang, Constructing personalized dysregulated transcriptional regulatory networks from patient transcriptome profiles via sparse learning, submitted to Journal of Molecular Biology.
 . X. Li, Y. Hu\*, C. Li, X. Yang and T. Jiang, Sparse estimation via $\ell_q$ optimization methods in high-dimensional linear regression, submitted to Journal of Machine Learning Research.
-. Y. Hu, C. K. W. Yu and X. Yang, Incremental subgradient methods for minimizing the sum of quasi-convex functions, submitted to Journal of Global Optimization. \[[./pdf/IncQuasiSGM-R2.pdf link]\]
 . C. K. W. Yu, Y. Hu and S.-J. Choy, Enhancing portfolio performance via the mean-variance analysis, submitted to Mathematics and Financial Economics.
 . X. Wang, Y. Hu\*, C. Li and S.-M. Guu, Linear convergence of subgradient algorithm for convex feasibility problems with applications, submitted to Journal of Optimization Theory and Applications.
 . Y. Hu, J. Li and C. K. W. Yu, Convergenece rates of subgradient methods for quasi-convex optimization problems, submitted to European Journal of Operational Research.
@@ -19,8 +17,10 @@
 . H. Wang, F. Zhang, Q. Wu, Y. Hu and Y. Shi, Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods, submitted to IEEE Transactions on Signal Processing. \[[./pdf/Nc&Ns-SO.pdf link]\]
 
 == Journal Papers
-. J. Wang, Y. Hu\*, C. K. W. Yu and X. Zhuang, A family of projection gradient methods for solving the multiple-sets split feasibility problem, *Journal of Optimization Theory and Applications*, accepted for publication, 2019. \[[./pdf/2019_MSSFP_JOTA_WHYZ.pdf link]\]
-. J. Bao, C. K. W. Yu, J. Wang\*, Y. Hu and J.-C. Yao, Modified inexact Levenberg-Marquardt methods for solving nonlinear least squares problems, *Computational Optimization and Applications*, accepted for publication, 2019. \[[./pdf/2019_LM_COAP_BYWHY.pdf link]\]
+. J. Wang, Y. Hu\*, C. K. W. Yu, C. Li and X. Yang, Extended Newton methods for multiobjective optimization: Majorizing function technique and convergence analysis, *SIAM Journal on Optimization*, accepted for publication, 2019. \[[./pdf/2019_MultiNewton-SIOPT_WHYLY.pdf link]\]
+. Y. Hu\*, C. K. W. Yu and X. Yang, Incremental quasi-subgradient methods for minimizing the sum of quasi-convex functions, *Journal of Global Optimization*, accepted for publication, 2019.  \[[./pdf/2019_IncQuasiSG-JGO_HYY.pdf link]\]
+. J. Wang, Y. Hu\*, C. K. W. Yu and X. Zhuang, A family of projection gradient methods for solving the multiple-sets split feasibility problem, *Journal of Optimization Theory and Applications*, accepted for publication, 2019. \[[./pdf/2019_MSSFP-JOTA_WHYZ.pdf link]\]
+. J. Bao, C. K. W. Yu, J. Wang\*, Y. Hu and J.-C. Yao, Modified inexact Levenberg-Marquardt methods for solving nonlinear least squares problems, *Computational Optimization and Applications*, accepted for publication, 2019. \[[./pdf/2019_LM-COAP_BYWHY.pdf link]\]
 . C. K. W. Yu, Y. Hu, X. Yang\* and S. K. Choy, Abstract convergence theorem for quasi-convex optimization problems with applications, *Optimization*, accepted for publication, 2018. \[[./pdf/2019_AbsQuasiSG-Optim_YHYC.pdf link]\] 
 . W. Shen, Y. Hu\*, C. Li and J.-C. Yao, Convergence of the Newton-type methods for the square inverse singular value problems with multiple and zero singular values, *Applied Numerical Mathematics*, 143: 172-187, 2019. \[[./pdf/2019_ISVP-ANM_SHLY.pdf link]\] 
 . J. Bao, S.-M. Guu\*, J. Wang, Y. Hu and C. Li, On convergence of a truncated Gauss-Newton method for solving underdetermined nonlinear least squares problems, *Journal of Nonlinear and Convex Analysis*, 19(12): 2235-2246, 2018. \[[./pdf/2018_TGN-JNCA_BGWHL.pdf link]\] 
