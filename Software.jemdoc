@@ -6,17 +6,17 @@
 - [http://jjwanglab.org/LpRGNI/ LpRGNI (Lp Regularization for Gene Network Inference)]\n
 \- An Matlab tool for predicting gene regulatory network by using the LASSO-type estimators, including the $\ell_0$, $\ell_1$ and $\ell_{1/2}$ regularization models, and from both high-throughput gene expression data and transcription factor.\n
 \- Reference:\n
--- J. Qin, Y. Hu, F. Xu, H. K. Yalamanchili and J. Wang, Inferring gene regulatory networks by integrating ChIP-seq/chip and transcriptome data via LASSO-type regularization methods, Methods, 67: 294-303, 2014. \[[./pdf/2014_IGRN-Lp-Methods_QHXYW-published.pdf link]\] 
+-- J. Qin, Y. Hu, F. Xu, H. K. Yalamanchili and J. Wang, Inferring gene regulatory networks by integrating ChIP-seq/chip and transcriptome data via LASSO-type regularization methods, Methods, 67: 294-303, 2014. \[[./pdf/2014_IGRN-Lp-Methods_QHXYW.pdf link]\] 
 
 == R
 - [https://CRAN.R-project.org/package=GSparO GSparO (Group Sparse Optimization)]\n
 \- An R pacakage for solving the $\ell_{p,q}$ regularization of group sparse optimization problem by implementing the proximal gradient algorithm.\n
 \- Reference:\n
--- Y. Hu, C. Li, K. Meng, J. Qin and X. Yang, Group sparse optimization via $\ell_{p,q}$ regularization, Journal of Machine Learning Research, 18(30): 1-52, 2017. \[[./pdf/2017_GSO-JMLR_HLMQY-published.pdf link]\] 
+-- Y. Hu, C. Li, K. Meng, J. Qin and X. Yang, Group sparse optimization via $\ell_{p,q}$ regularization, /Journal of Machine Learning Research/, 18(30): 1-52, 2017. \[[./pdf/2017_GSO-JMLR_HLMQY.pdf link]\] 
 
 == Webserver
 - [http://qinlab.sls.cuhk.edu.hk/CrusTF/ CrusTF (Crustacean Transcription Factors)]\n
 \- A comprehensive resource for evolutionary and functional studies of crustacean transcription factors.\n
 \- Reference:\n
--- J. Qin, Y. Hu, K. Ma, X. Jiang, C. Ho, L. Tsang, L. Yi and K. Chu, CrusTF: A comprehensive resource for evolutionary and functional studies of crustacean transcription factors, BMC Genomics, 18(1): 908, 2017. \[[./pdf/2017_CrusTF-BMCGenomics_QHC-published.pdf link]\]
+-- J. Qin, Y. Hu, K. Ma, X. Jiang, C. Ho, L. Tsang, L. Yi and K. Chu, CrusTF: A comprehensive resource for evolutionary and functional studies of crustacean transcription factors, /BMC Genomics/, 18(1): 908, 2017. \[[./pdf/2017_CrusTF-BMCGenomics_QHC.pdf link]\]
 
