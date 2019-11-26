@@ -9,15 +9,15 @@
 . Y. Hu, C. Li, K. W. Meng and X. Yang, Linear convergence of inexact descent methods and inexact proximal gradient algorithms for lower-order regularization problems, submitted to /Foundations of Computational Mathematics/. \[[./pdf/LC-PGA-Lp.pdf link]\]
 . J. Qin, Y. Hu, J.-C. Yao, Y. Qin, K. H. Chu and J. Wang, Group sparse optimization: An integrative OMICs method to predict master transcription factors for cell fate conversion, submitted to /Nucleic Acids Research/.
 . W. Veldsman, F. Cheung, Y. Hu, X. Jiang, P. Wang, J. Qin, J. Wang, Constructing personalized dysregulated transcriptional regulatory networks from patient transcriptome profiles via sparse learning, submitted to /Journal of Molecular Biology/.
-. X. Li, Y. Hu\*, C. Li, X. Yang and T. Jiang, Sparse estimation via $\ell_q$ optimization methods in high-dimensional linear regression, submitted to /IEEE Transactions on Information Theory/.
+. X. Li, Y. Hu\*, C. Li, X. Yang and T. Jiang, Sparse estimation via $\ell_q$ optimization methods in high-dimensional linear regression, submitted to /IEEE Transactions on Information Theory/. \[[./pdf/SparEstimLq.pdf link]\]
 . C. K. W. Yu, Y. Hu and S.-J. Choy, Enhancing portfolio performance via the mean-variance analysis, submitted to /Mathematics and Financial Economics/.
 . X. Wang, Y. Hu\*, C. Li and S.-M. Guu, Linear convergence of subgradient algorithm for convex feasibility problems with applications, submitted to /Journal of Optimization Theory and Applications/.
 . Y. Hu, J. Li and C. K. W. Yu, Convergenece rates of subgradient methods for quasi-convex optimization problems, submitted to /European Journal of Operational Research/.
 . H. Wang, F. Zhang, Q. Wu, Y. Hu and Y. Shi, Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods, submitted to /IEEE Transactions on Signal Processing/. \[[./pdf/Nc&Ns-SO.pdf link]\]
 
 == 发表文章
-. K. Zhang\*, X. Yang and Y. Hu, Power penalty method for solving HJB equations arising from finance, Accepted in /Automatica/, 2019.
-. Y. Hu\*, C. K. W. Yu and X. Yang, Incremental quasi-subgradient methods for minimizing the sum of quasi-convex functions, Accepted in /Journal of Global Optimization/, 2019.  \[[./pdf/2019_IncQuasiSG-JGO_HYY.pdf link]\]
+. K. Zhang\*, X. Yang and Y. Hu, Power penalty method for solving HJB equations arising from finance, Accepted in /Automatica/, 2019. \[[./pdf/2019_HJB-AUT_ZYH.pdf link]\]
+. Y. Hu\*, C. K. W. Yu and X. Yang, Incremental quasi-subgradient methods for minimizing the sum of quasi-convex functions, /Journal of Global Optimization/, 75(4): 1003-1028, 2019. \[[./pdf/2019_IncQuasiSG-JGO_HYY.pdf link]\]
 . J. Wang, Y. Hu\*, C. K. W. Yu, C. Li and X. Yang, Extended Newton methods for multiobjective optimization: Majorizing function technique and convergence analysis, /SIAM Journal on Optimization/, 29(3): 2388-2421, 2019. \[[./pdf/2019_MultiNewton-SIOPT_WHYLY.pdf link]\]
 . J. Bao, C. K. W. Yu, J. Wang\*, Y. Hu and J.-C. Yao, Modified inexact Levenberg-Marquardt methods for solving nonlinear least squares problems, /Computational Optimization and Applications/, 74: 547-582, 2019. \[[./pdf/2019_LM-COAP_BYWHY.pdf link]\]
 . J. Wang, Y. Hu\*, C. K. W. Yu and X. Zhuang, A family of projection gradient methods for solving the multiple-sets split feasibility problem, /Journal of Optimization Theory and Applications/, 183(2): 520-534, 2019. \[[./pdf/2019_MSSFP-JOTA_WHYZ.pdf link]\]
