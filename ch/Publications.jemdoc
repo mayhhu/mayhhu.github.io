@@ -14,9 +14,12 @@
 . H. Wang, F. Zhang, Q. Wu, Y. Hu and Y. Shi, Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods, submitted to /IEEE Transactions on Signal Processing/. \[[./pdf/Nc&Ns-SO.pdf link]\]
 
 == 发表文章
-. Y. Hu, C. Li, K. Meng* and X. Yang, Linear convergence of inexact descent methods and inexact proximal gradient algorithms for lower-order regularization problems, Accepted in /Journal of Global Optimization/, 2020. \[[./pdf/2020_LC-PGA-Lp_JGO_HLMY.pdf link]\]
-. X. Hu, Y. Hu, F. Wu, R. W. T. Leung and J. Qin*, Integration of single-cell multi-omics for gene regulatory network inference, Accepted in /Computational and Structural Biotechnology Journal/, 2020. \[[./pdf/2020_SC-GRN-CSBJ_HHQ.pdf link]\]
-. Y. Hu, J. Li and C. K. W. Yu*, Convergenece rates of subgradient methods for quasi-convex optimization problems, Accepted in /Computational Optimization and Applications/, 2020. \[[./pdf/2020_CRQuasiSG-COAP_HLY.pdf link]\]
+. Y. Hu, C. Li, K. Meng\* and X. Yang, Linear convergence of inexact descent methods and inexact proximal gradient algorithms for lower-order regularization problems, /Journal of Global Optimization/, 79(4): 853-883, 2021. \[[./pdf/2021_LC-PGA-Lp-JGO_HLMY.pdf link]\]
+. L. Zhang, W. Gu\*, L. Fu, Y. Mei and Y. Hu, A two-stage heuristic approach for fleet management optimization under time-varying demand, /Transportation Research Part E: Logistics and Transportation Review/, 147: 102268, 2021. \[[./pdf/2021_FleetMO-TRE_ZGFMH.pdf link]\] 
+. X. Li, L. Cai, J. Li, C. K. W. Yu, and Y. Hu\*, A survey of clustering methods via optimization methodology, /Journal of Applied and Numerical Optimization/, 3(1): 151-174, 2021. \[[./pdf/2021_ClusterRev-JANO_LCLYH.pdf link]\]
+. X. Hu, Y. Hu, F. Wu, R. W. T. Leung and J. Qin\*, Integration of single-cell multi-omics for gene regulatory network inference, /Computational and Structural Biotechnology Journal/, 18: 1925-1938, 2020. \[[./pdf/2020_SC-GRN-CSBJ_HHQ.pdf link]\]
+. Y. Hu, C. Li, Y. Liu and M. Li\*, The effect of deterministic noise on quasi-subgradient method for quasi-convex feasibility problems, /Journal of Applied and Numerical Optimization/, 2(2): 235-247, 2020. \[[./pdf/2020_InexactQuasiCFP-JANO_HLL.pdf link]\]
+. Y. Hu, J. Li and C. K. W. Yu*, Convergenece rates of subgradient methods for quasi-convex optimization problems, /Computational Optimization and Applications/, 77(1): 183-212, 2020. \[[./pdf/2020_CRQuasiSG-COAP_HLY.pdf link]\]
 . K. Zhang\*, X. Yang and Y. Hu, Power penalty method for solving HJB equations arising from finance, /Automatica/, 111: 108668, 2020. \[[./pdf/2020_HJB-AUT_ZYH.pdf link]\]
 . Y. Hu\*, C. K. W. Yu and X. Yang, Incremental quasi-subgradient methods for minimizing the sum of quasi-convex functions, /Journal of Global Optimization/, 75(4): 1003-1028, 2019. \[[./pdf/2019_IncQuasiSG-JGO_HYY.pdf link]\]
 . J. Wang, Y. Hu\*, C. K. W. Yu, C. Li and X. Yang, Extended Newton methods for multiobjective optimization: Majorizing function technique and convergence analysis, /SIAM Journal on Optimization/, 29(3): 2388-2421, 2019. \[[./pdf/2019_MultiNewton-SIOPT_WHYLY.pdf link]\]
